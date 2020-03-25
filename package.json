@@ -1,0 +1,10 @@
+{
+  "name": "merchants-node",
+  "version": "1.0.0",
+  "description": "Learn how NodeJS and Express can interact with PostgreSQL",
+  "main": "index.js",
+  "repository": "https://github.com/reluviari/merchants-node",
+  "author": "Danilo Dias",
+  "license": "MIT",
+  "private": false
+}
